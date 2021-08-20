@@ -8,7 +8,7 @@ import random
 from selenium.webdriver.common.proxy import Proxy, ProxyType
 
 msg = "WoW That is excellent!"
-account = "ayaanmomiin"
+account = "moin"
 
 
 def random_string(string_length=13):
